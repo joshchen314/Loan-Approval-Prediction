@@ -17,3 +17,9 @@ This project is called "Loan Approval Classifier" using a loan dataset with 9,50
 1. Deployment: The web app is deployed on a loveable space, Hugging Face.
 
 TIP: for deploying the application app, preprocessing data step is very important that the amounts of features in the model steps and the web app step should be the same. 
+
+[View code on Github]
+
+(https://github.com/joshchen314/Loan-Approval-Prediction)
+
+<img src="images/P00120230418.PNG?raw=true"/>
