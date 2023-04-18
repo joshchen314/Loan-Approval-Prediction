@@ -21,5 +21,3 @@ TIP: for deploying the application app, preprocessing data step is very importan
 [View code on Github]
 
 (https://github.com/joshchen314/Loan-Approval-Prediction)
-
-<img src="images/P00120230418.PNG?raw=true"/>
