@@ -18,6 +18,4 @@ This project is called "Loan Approval Classifier" using a loan dataset with 9,50
 
 TIP: for deploying the application app, preprocessing data step is very important that the amounts of features in the model steps and the web app step should be the same. 
 
-[View code on Github]
-
-(https://github.com/joshchen314/Loan-Approval-Prediction)
+[View code on Github](https://github.com/joshchen314/Loan-Approval-Prediction/blob/main/loan-approval-prediction.ipynb)
